@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/jgsrty/jgsrty.github.docs#readme",
   "devDependencies": {
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.1.0",
     "vuepress": "^0.14.4"
   } 
